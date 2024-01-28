@@ -1,6 +1,6 @@
 # Meghalini Gurram
 
-![Headshot Photo](docs/Headshot_Photo.jpeg)
+![Headshot Photo](UMBC-DATA606-Capstone/docs/Headshot_Photo.jpeg)
 
 Baltimore, MD 21228 | gurram.meghalini@gmail.com | (410)-940-5714  
 
