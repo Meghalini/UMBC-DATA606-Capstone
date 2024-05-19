@@ -5,6 +5,7 @@
 Baltimore, MD 21228 | gurram.meghalini@gmail.com | (410)-940-5714  
 
 ## Professional Summary:
+![Headshot Photo](/docs/Headshot_Photo.jpeg)
 
 - A Graduate Professional, skilled in Data Analysis, Data Visualization, ETL, Big Data tools, SQL, and Python programming language.
 - Knowledge in designing and implementing data engineering pipelines and analyzing data using Hadoop ecosystem tools like HDFS, Spark, and PySpark.
