@@ -7,7 +7,7 @@ Dataset Overview:
 The KDD Cup 99 dataset consists of approximately 5 million network connections, divided into four categories: normal, denial of service (DoS), probe, and user-to-root (U2R) attacks. Each network connection is represented by a set of features, including protocol type, service, source and destination addresses, flags, and more. The dataset also provides labels indicating whether each connection is normal or represents a specific type of attack.
 EDA:
 Data:
-![EDA](/docs/EDA.png)
+![EDA](https://github.com/Meghalini/UMBC-DATA606-Capstone/blob/main/docs/Picture11.png?raw=true)
 
 
 
