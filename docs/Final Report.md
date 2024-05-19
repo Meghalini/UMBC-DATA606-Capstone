@@ -8,6 +8,7 @@ The KDD Cup 99 dataset consists of approximately 5 million network connections, 
 EDA:
 Data:
 ![Headshot Photo](/docs/Headshot_Photo.jpeg)
+![EDA](https://github.com/Meghalini/UMBC-DATA606-Capstone/assets/37445207/223d6895-d293-4c35-ad6a-7ecaa03f7e82)
 
 
 
