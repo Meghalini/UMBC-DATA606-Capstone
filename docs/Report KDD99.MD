@@ -1,4 +1,10 @@
 # Network Anomaly/Intrusion Detection Report using KDD Cup 99 Dataset
+Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie Wang.
+Author - Meghalini Gurram
+Github - https://github.com/Meghalini/UMBC-DATA606-Capstone.git
+LinkedIn - https://www.linkedin.com/in/meghalini-gurram-850b24240
+PPT Link - 
+Youtube Link - https://youtu.be/WH8Xyaq0Byg
 
 ## Introduction:
 The purpose of this report is to provide an overview of the network anomaly/intrusion detection using the KDD Cup 99 dataset. The KDD Cup 99 dataset is a widely used benchmark dataset for evaluating intrusion detection systems. It contains network traffic data captured from a simulated environment, representing various types of normal and malicious activities.
