@@ -9,32 +9,32 @@ The KDD Cup 99 dataset consists of approximately 5 million network connections, 
 ### EDA:
 ![img](img1.png)
 
-![img](images/img2.png)
+![img](img2.png)
 
-![img](images/img3.png)
+![img](img3.png)
 
 ## Describing Data
 The standard deviation of balance, duration and pdays is greater than one third of the mean, distrubution would be spreaded out around the mean, we will see this in visualisation section.
-![img](images/img4.png)
+![img](img4.png)
 
-![img](images/img5.png)
+![img](img5.png)
 
-![img](images/img6.png)
+![img](img6.png)
 
-![img](images/img7.png)
+![img](img7.png)
 
 This help us to know that there's various factors on which attacks depends
 
-![img](images/img8.png)
+![img](img8.png)
 
 
 By analysing the above two graphs we came to know that, Most of the UDP and tcp protocols denote the normal traffic. It also means that UDP and TCP are more vulnerable in compare with others. If it is not a guest login then more chance the traffic denotes DOS attack.
 
-![img](images/img9.png)
+![img](img9.png)
 
 ## Correlation
 We can observe that Corelations are very less
-![img](images/img10.png)
+![img](img10.png)
 
 
 ## Preprocessing:
@@ -43,15 +43,15 @@ Before conducting the network anomaly/intrusion detection analysis, the KDD Cup 
 - b. Feature Selection/Engineering: Identifying relevant features and transforming them into a suitable format for analysis. This step aims to reduce dimensionality and improve the performance of the intrusion detection model.
 - c. Data Splitting: Dividing the dataset into training, validation, and testing sets. The training set is used to train the intrusion detection model, the validation set helps in tuning hyperparameters, and the testing set evaluates the final model's performance.
 
-![img](images/img11.png)
+![img](img11.png)
 
-![img](images/img12.png)
+![img](img12.png)
 
-![img](images/img13.png)
+![img](img13.png)
 
-![img](images/img14.png)
+![img](img14.png)
 
-![img](images/img15.png)
+![img](img15.png)
 
 ## Network Anomaly/Intrusion Detection Techniques:
 There are several techniques that can be employed for network anomaly/intrusion detection using the KDD Cup 99 dataset. Some commonly used techniques include:
@@ -73,18 +73,18 @@ To assess the performance of the network anomaly/intrusion detection model, the 
 - c. Recall/Sensitivity: The proportion of correctly identified attacks out of all actual attack instances. It indicates the model's ability to avoid false negatives.
 - d. F1 Score: The harmonic mean of recall and accuracy offers an accurate assessment of model performance.
 
-![img](images/img16.png)
+![img](img16.png)
 
-![img](images/img17.png)
+![img](img17.png)
 
-![img](images/img18.png)
+![img](img18.png)
 
-![img](images/img19.png)
+![img](img19.png)
 
 
 ## For XGBOOST After Performing K Fold Cross Validation we got Best Results
 
-![img](images/img20.png)
+![img](img20.png)
 
 
 ## Conclusion:
